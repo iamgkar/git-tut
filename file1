@@ -3,5 +3,10 @@ This is my second line
 This is my third line
 **********************
 This code belongs to branch1
+<<<<<<< HEAD
 **********
 This code belongs to branch2
+=======
+************
+adding to master to check for integrity of branch2
+>>>>>>> 07bc1f5601e15156b227b161dd6e0caa3a3e7cad
